@@ -1,0 +1,23 @@
+# Flutter / Dart
+attendance_app/build/
+attendance_app/.dart_tool/
+attendance_app/.flutter-plugins
+attendance_app/.flutter-plugins-dependencies
+attendance_app/.idea/
+attendance_app/.vscode/
+attendance_app/android/.gradle/
+attendance_app/android/app/debug.keystore
+attendance_app/ios/Pods/
+attendance_app/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Python
+attendance_backend/__pycache__/
+attendance_backend/*.py[cod]
+attendance_backend/.venv/
+attendance_backend/venv/
+attendance_backend/.env
+attendance_backend/*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
